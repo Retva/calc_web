@@ -1,0 +1,12 @@
+{
+  "name": "Калькулятор и конвертер",
+  "short_name": "calc_web",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F3EEE3",
+  "theme_color": "#D9481E",
+  "description": "ПР1. Маршрутизация, формы и URL как состояние.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
